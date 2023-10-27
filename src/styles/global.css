@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+body{
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+  }
+@tailwind utilities;
